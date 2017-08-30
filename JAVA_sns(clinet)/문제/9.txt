@@ -1,0 +1,5 @@
+VLAN의 종류와 정의 중 틀 린 것은 무엇인가 ?
+1. Data　VLAN : 사용자 데이터 트래픽
+2. Default VLAN: 모든 포트의 기본 vlan
+3. Native VLAN: 모든 트렁킹에서 태그 되지않는 vlan이다.
+4. Management VLAN　：스위치를 관리하는 VLAN이다.

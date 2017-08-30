@@ -1,0 +1,5 @@
+violation을 이용해서 포트 위반시 정책설정 맞지 않는 것은 ?
+1. shutdown : 해당포트 차단
+2. protect : 해당 맥 차단
+3. restrict : protect처럼 작동하고 로그메시지를 알려준다.
+4. down : 해당 스위치 다운

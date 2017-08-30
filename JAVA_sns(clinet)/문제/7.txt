@@ -1,0 +1,5 @@
+DTP(dynamic trunk protocol)의 트렁크 모드 중 틀린것은?
+1. switchport mode auto
+2. switchport mode dynamic auto
+3. switchport mode dynamic desirable
+4. switchport mode trunk 
